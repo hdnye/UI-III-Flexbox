@@ -128,14 +128,14 @@ nav {
 .middleSection {
 	display: flex;
 	justify-content: space-around;
-	align-items: center;
+	align-items: center; 
 	margin: 80px 0px 50px 0px;
 	
 }
 
-.content-block2 {
-	width: 40%;
-}
+/* .content-block2 {
+	width: 40%; 
+} */ 
 .contact {
 	display: flex;
 	align-items: baseline;
