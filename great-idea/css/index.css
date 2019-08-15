@@ -77,6 +77,9 @@ h1 {
 	text-align: center;
 	font-size: 90px;
 }
+h2 {
+	font-size: 30px;
+}
 
 a {	
 	margin: 30px 20px 30px 15px;
@@ -141,4 +144,31 @@ nav {
 	align-items: baseline;
 	text-align: left;
 	margin: 10px;
+}
+
+.services-header-img {
+	margin: auto;
+    padding: 0px 0px 40px;
+}
+
+.container-1 {
+	padding: 0px 0px 40px 0px;
+    border-bottom: 2px solid black;
+    margin: 0px 0px 40px 0px;
+
+}
+
+.container-2 {
+	display: flex;
+    flex-flow: wrap;
+
+}
+
+.box-2 {    height: 200px;
+    width: 400px;
+    margin: 0;
+    padding: 20px;
+    border: 1px solid black;
+    background: lightgray;
+
 }
