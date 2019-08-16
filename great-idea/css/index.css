@@ -160,7 +160,12 @@ nav {
 
 .container-2 {
 	display: flex;
-    flex-flow: wrap;
+	justify-content: space-between;
+    flex-flow: row wrap;
+
+}
+
+.container-3 {
 
 }
 
@@ -171,4 +176,9 @@ nav {
     border: 1px solid black;
     background: lightgray;
 
+}
+.box-3 {
+	margin: 0;
+	padding: 20px;
+	
 }
